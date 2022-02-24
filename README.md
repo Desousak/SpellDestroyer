@@ -12,7 +12,7 @@ Each of the above can be commented out to turn on/off a technique. Probabilities
 
 
 ## How to use:
-1. Place your text within the `input.txt` file
+1. Place your text within a `input.txt` file, placed within the root directory of this project
 2. Tweak `spelld.py` to fit your needs
 3. Run `spelld.py` 
 4. Get the messed up text within the `output.txt` file
